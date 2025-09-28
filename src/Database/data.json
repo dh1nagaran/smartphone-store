@@ -1,0 +1,252 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "price": 159900,
+      "storage": "256",
+      "ram": "8",
+      "battery": "4422mAh",
+      "os": "iOS 17",
+      "availability": true,
+      "image": "https://i.ibb.co/hJtXWy49/image-removebg-preview-44.png"
+    },
+    {
+      "id": 2,
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "price": 79900,
+      "storage": "128",
+      "ram": "6",
+      "battery": "3877mAh",
+      "os": "iOS 17",
+      "availability": true,
+      "image": "https://i.ibb.co/WWt8qKYk/image-removebg-preview-45.png"
+    },
+    {
+      "id": 3,
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "price": 119900,
+      "storage": "256",
+      "ram": "6",
+      "battery": "3200mAh",
+      "os": "iOS 16",
+      "availability": false,
+      "image": "https://i.ibb.co/v6s51KY2/image-removebg-preview-46.png"
+    },
+
+    {
+      "id": 4,
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "price": 124999,
+      "storage": "512",
+      "ram": "12",
+      "battery": "5000mAh",
+      "os": "Android 13",
+      "availability": true,
+      "image": "https://i.ibb.co/0gJncKS/image-removebg-preview-47.png"
+    },
+    {
+      "id": 5,
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 5",
+      "price": 154999,
+      "storage": "512",
+      "ram": "12",
+      "battery": "4400mAh",
+      "os": "Android 13",
+      "availability": true,
+      "image": "https://i.ibb.co/cKJQCq70/image-removebg-preview-48.png"
+    },
+    {
+      "id": 6,
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "price": 79999,
+      "storage": "256",
+      "ram": "8",
+      "battery": "3900mAh",
+      "os": "Android 13",
+      "availability": true,
+      "image": "https://i.ibb.co/zVL4XH4b/image-removebg-preview-49.png"
+    },
+
+    {
+      "id": 7,
+      "brand": "OnePlus",
+      "model": "OnePlus 11 5G",
+      "price": 44999,
+      "storage": "256",
+      "ram": "16",
+      "battery": "5000mAh",
+      "os": "Android 13",
+      "availability": true,
+      "image": "https://i.ibb.co/Kj2WsCqn/image-removebg-preview-50.png"
+    },
+    {
+      "id": 8,
+      "brand": "OnePlus",
+      "model": "OnePlus 10 Pro",
+      "price": 39999,
+      "storage": "256",
+      "ram": "12",
+      "battery": "5000mAh",
+      "os": "Android 12",
+      "availability": false,
+      "image": "https://i.ibb.co/gHMnXGm/image-removebg-preview-51.png"
+    },
+
+    {
+      "id": 9,
+      "brand": "Google",
+      "model": "Pixel 8 Pro",
+      "price": 106999,
+      "storage": "128",
+      "ram": "12",
+      "battery": "5050mAh",
+      "os": "Android 14",
+      "availability": true,
+      "image": "https://i.ibb.co/ymG0R2jW/image-removebg-preview-52.png"
+    },
+    {
+      "id": 10,
+      "brand": "Google",
+      "model": "Pixel 7 Pro",
+      "price": 84999,
+      "storage": "256",
+      "ram": "12",
+      "battery": "5000mAh",
+      "os": "Android 13",
+      "availability": true,
+      "image": "https://i.ibb.co/5W8BNTtx/image-removebg-preview-53.png"
+    },
+
+    {
+      "id": 11,
+      "brand": "Xiaomi",
+      "model": "Xiaomi 13 Pro",
+      "price": 79999,
+      "storage": "256",
+      "ram": "12",
+      "battery": "4820mAh",
+      "os": "Android 13",
+      "availability": true,
+      "image": "https://i.ibb.co/PZJGKXYf/image-removebg-preview-54.png"
+    },
+    {
+      "id": 12,
+      "brand": "Xiaomi",
+      "model": "Xiaomi 12 Pro",
+      "price": 54999,
+      "storage": "256",
+      "ram": "12",
+      "battery": "4600mAh",
+      "os": "Android 12",
+      "availability": false,
+      "image": "https://i.ibb.co/cKcq8H0b/image-removebg-preview-55.png"
+    },
+
+    {
+      "id": 13,
+      "brand": "Vivo",
+      "model": "Vivo X90 Pro+",
+      "price": 79999,
+      "storage": "256",
+      "ram": "12",
+      "battery": "4700mAh",
+      "os": "Android 13",
+      "availability": true,
+      "image": "https://i.ibb.co/3m0DmWbs/image-removebg-preview-56.png"
+    },
+    {
+      "id": 14,
+      "brand": "Vivo",
+      "model": "Vivo X80 Pro",
+      "price": 64999,
+      "storage": "256",
+      "ram": "12",
+      "battery": "4700mAh",
+      "os": "Android 12",
+      "availability": false,
+      "image": "https://i.ibb.co/MkbYxSQs/image-removebg-preview-57.png"
+    },
+
+    {
+      "id": 15,
+      "brand": "Realme",
+      "model": "Realme GT Neo 5",
+      "price": 37999,
+      "storage": "256",
+      "ram": "12",
+      "battery": "5000mAh",
+      "os": "Android 13",
+      "availability": true,
+      "image": "https://i.ibb.co/RGt3fhsS/image-removebg-preview-58.png"
+    },
+    {
+      "id": 16,
+      "brand": "Realme",
+      "model": "Realme GT 2 Pro",
+      "price": 34999,
+      "storage": "256",
+      "ram": "12",
+      "battery": "5000mAh",
+      "os": "Android 12",
+      "availability": true,
+      "image": "https://i.ibb.co/LXhgz9Vg/image-removebg-preview-64.png"
+    },
+
+    {
+      "id": 17,
+      "brand": "Motorola",
+      "model": "Motorola Edge 40 Pro",
+      "price": 69999,
+      "storage": "256",
+      "ram": "12",
+      "battery": "4600mAh",
+      "os": "Android 13",
+      "availability": true,
+      "image": "https://i.ibb.co/mFrqw6Zn/image-removebg-preview-60.png"
+    },
+    {
+      "id": 18,
+      "brand": "Motorola",
+      "model": "Motorola Razr 40 Ultra",
+      "price": 89999,
+      "storage": "256",
+      "ram": "12",
+      "battery": "3800mAh",
+      "os": "Android 13",
+      "availability": false,
+      "image": "https://i.ibb.co/M5D79sgL/image-removebg-preview-61.png"
+    },
+
+    {
+      "id": 19,
+      "brand": "Asus",
+      "model": "ROG Phone 7 Ultimate",
+      "price": 99999,
+      "storage": "512",
+      "ram": "16",
+      "battery": "6000mAh",
+      "os": "Android 13",
+      "availability": true,
+      "image": "https://i.ibb.co/4R6BRyJF/image-removebg-preview-62.png"
+    },
+    {
+      "id": 20,
+      "brand": "Asus",
+      "model": "ROG Phone 6",
+      "price": 85999,
+      "storage": "512",
+      "ram": "16",
+      "battery": "6000mAh",
+      "os": "Android 12",
+      "availability": false,
+      "image": "https://i.ibb.co/twF7Wh2K/image-removebg-preview-63.png"
+    }
+  ]
+}
